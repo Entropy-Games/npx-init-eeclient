@@ -1,0 +1,16 @@
+{
+  "name": "init-eeclient",
+  "version": "0.1.0",
+  "description": "Command for initialising an Entropy Engine project with eeclient",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"No test\""
+  },
+  "author": "revers3ntropy",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eeclient": "^0.1.1-a"
+  }
+}
