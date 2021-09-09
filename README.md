@@ -1,2 +1,2 @@
 # npx-init-eeclient
-See https://entropyengine.dev/eeclient-info for a getting started guide
+See https://docs.entropyengine.dev for a getting started guide
